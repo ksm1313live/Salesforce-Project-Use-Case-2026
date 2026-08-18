@@ -156,16 +156,16 @@ The timeline can be extended by agreement where circumstances require it — see
 
 ## Included Mentor Time
 
-| Phase                              | Session                       | Duration | Format   |
-| :--------------------------------- | :---------------------------- | :------- | :------- |
-| 1 - Discovery and Scoping          | Kickoff and requirements      | 60 mins  | Live 1:1 |
-| 2 - Solution Design                | Design review                 | 60 mins  | Live 1:1 |
-| 3 - Build                          | Checkpoint 1                  | 60 mins  | Live 1:1 |
-| 3 - Build                          | Checkpoint 2                  | 60 mins  | Live 1:1 |
-| 4 - Documentation and Packaging    | Documentation and deck review | 60 mins  | Live 1:1 |
-| 4 - Documentation and Packaging    | Demo rehearsal                | 30 mins  | Live 1:1 |
-| 5 - Career Positioning             | CV, LinkedIn and gap review   | 60 mins  | Live 1:1 |
-| 5 - Career Positioning             | Mock interview and feedback   | 60 mins  | Live 1:1 |
+| Phase                              | Session                       | Duration |
+| :--------------------------------- | :---------------------------- | :------- |
+| 1 - Discovery and Scoping          | Kickoff and requirements      | 60 mins  |
+| 2 - Solution Design                | Design review                 | 60 mins  |
+| 3 - Build                          | Checkpoint 1                  | 60 mins  |
+| 3 - Build                          | Checkpoint 2                  | 60 mins  |
+| 4 - Documentation and Packaging    | Documentation and deck review | 60 mins  |
+| 4 - Documentation and Packaging    | Demo rehearsal                | 30 mins  |
+| 5 - Career Positioning             | CV, LinkedIn and gap review   | 60 mins  |
+| 5 - Career Positioning             | Mock interview and feedback   | 60 mins  |
 
 **Total scheduled live time: 7.5 hours**
 

@@ -138,6 +138,34 @@ This distinction matters. An artefact you built yourself holds up under intervie
 
 ---
 
+Programme Duration
+
+6 weeks from kickoff to completion.
+
+The timeline can be extended by agreement where circumstances require it — see Rescheduling and Extensions below.
+
+Included Mentor Time
+Phase	Session	Duration	Format
+1 — Discovery and Scoping	Kickoff and requirements	60 mins	Live 1:1
+2 — Solution Design	Design review	60 mins	Live 1:1
+3 — Build	Checkpoint 1	60 mins	Live 1:1
+3 — Build	Checkpoint 2	60 mins	Live 1:1
+4 — Documentation and Packaging	Documentation and deck review	60 mins	Live 1:1
+4 — Documentation and Packaging	Demo rehearsal	30 mins	Live 1:1
+5 — Career Positioning	CV, LinkedIn and gap review	60 mins	Live 1:1
+5 — Career Positioning	Mock interview and feedback	60 mins	Live 1:1
+
+Total scheduled live time: 7.5 hours
+
+Also Included
+Item	Allowance
+Unblocking support sessions	2 x 30 mins, used as needed during the build phase
+Asynchronous review	Written feedback on documents and build progress between sessions
+Message support	Reasonable questions between sessions, answered within normal working turnaround
+Templates and reference material	Requirements, design, documentation and solution deck templates
+
+Total included mentor time: approximately 8.5 hours of live contact, plus asynchronous review.
+
 ## What Participants Complete With
 
 | Artefact | Purpose |

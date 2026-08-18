@@ -138,69 +138,121 @@ This distinction matters. An artefact you built yourself holds up under intervie
 
 ---
 
-Programme Duration
+# Time, Commitment & What's Included
 
-6 weeks from kickoff to completion.
+**Kam's Tech Talk — Salesforce Project & Career Path Programme**
 
-The timeline can be extended by agreement where circumstances require it — see Rescheduling and Extensions below.
-
-Included Mentor Time
-Phase	Session	Duration	Format
-1 — Discovery and Scoping	Kickoff and requirements	60 mins	Live 1:1
-2 — Solution Design	Design review	60 mins	Live 1:1
-3 — Build	Checkpoint 1	60 mins	Live 1:1
-3 — Build	Checkpoint 2	60 mins	Live 1:1
-4 — Documentation and Packaging	Documentation and deck review	60 mins	Live 1:1
-4 — Documentation and Packaging	Demo rehearsal	30 mins	Live 1:1
-5 — Career Positioning	CV, LinkedIn and gap review	60 mins	Live 1:1
-5 — Career Positioning	Mock interview and feedback	60 mins	Live 1:1
-
-Total scheduled live time: 7.5 hours
-
-Also Included
-Item	Allowance
-Unblocking support sessions	2 x 30 mins, used as needed during the build phase
-Asynchronous review	Written feedback on documents and build progress between sessions
-Message support	Reasonable questions between sessions, answered within normal working turnaround
-Templates and reference material	Requirements, design, documentation and solution deck templates
-
-Total included mentor time: approximately 8.5 hours of live contact, plus asynchronous review.
-
-## What Participants Complete With
-
-| Artefact | Purpose |
-|---|---|
-| Working Salesforce org | Live demonstration during interviews |
-| Requirements and design documents | Evidence of analytical and consulting thinking |
-| Solution presentation deck | Shareable portfolio piece |
-| Build log | Source material for interview stories |
-| Updated CV and LinkedIn profile | Job applications |
-| Mock interview experience | Interview confidence |
+This page sets out exactly how much time is included, what you are expected to put in, and what falls outside the standard programme. It is shared with every participant before joining so there are no surprises on either side.
 
 ---
 
-## Support Boundaries
+## Programme Duration
 
-To keep the programme effective and fair to everyone taking part:
+**6 weeks** from kickoff to completion.
 
-- Scheduled sessions follow the phase structure above
-- A defined allowance of additional unblocking support is included
-- Support beyond that allowance is arranged separately
-- Participants are expected to complete build work between sessions
-- If checkpoints are consistently missed, we pause and reassess together — this may mean extending the timeline or moving to a foundations-first route
-
-These boundaries are set out clearly at the intake call. They are not restrictions for their own sake; they protect the quality of support each participant receives.
+The timeline can be extended by agreement where circumstances require it — see [Rescheduling and Extensions](#rescheduling-and-extensions) below.
 
 ---
 
-## Intake Process
+## Included Mentor Time
 
-1. **Enquiry** — Register interest
-2. **Intake call** — A conversation covering your background, what you have built, your target role, prerequisites and expectations
-3. **Route confirmation** — Either joining this programme, or an agreed foundations-first path
-4. **Kickoff** — Scheduling, scenario selection and commencement
+| Phase                              | Session                       | Duration | Format   |
+| :--------------------------------- | :---------------------------- | :------- | :------- |
+| 1 - Discovery and Scoping          | Kickoff and requirements      | 60 mins  | Live 1:1 |
+| 2 - Solution Design                | Design review                 | 60 mins  | Live 1:1 |
+| 3 - Build                          | Checkpoint 1                  | 60 mins  | Live 1:1 |
+| 3 - Build                          | Checkpoint 2                  | 60 mins  | Live 1:1 |
+| 4 - Documentation and Packaging    | Documentation and deck review | 60 mins  | Live 1:1 |
+| 4 - Documentation and Packaging    | Demo rehearsal                | 30 mins  | Live 1:1 |
+| 5 - Career Positioning             | CV, LinkedIn and gap review   | 60 mins  | Live 1:1 |
+| 5 - Career Positioning             | Mock interview and feedback   | 60 mins  | Live 1:1 |
 
-Every participant goes through an intake call. Places are limited to maintain the quality of individual support.
+**Total scheduled live time: 7.5 hours**
+
+---
+
+## Also Included
+
+| Item                             | Allowance                                                                        |
+| :------------------------------- | :------------------------------------------------------------------------------- |
+| Unblocking support sessions      | 2 x 30 mins, used as needed during the build phase                               |
+| Asynchronous review              | Written feedback on documents and build progress between sessions                |
+| Message support                  | Reasonable questions between sessions, answered within normal working turnaround |
+| Templates and reference material | Requirements, design, documentation and solution deck templates                  |
+
+**Total included mentor time: approximately 8.5 hours of live contact, plus asynchronous review.**
+
+---
+
+## Your Time Commitment
+
+The programme is guided, not delivered for you. Your own build work is the largest part of the effort.
+
+| Activity                               | Expected time per week |
+| :------------------------------------- | :--------------------- |
+| Independent build work in your own org | 4-6 hours              |
+| Reading, preparation and documentation | 1-2 hours              |
+| Live session attendance                | 1-1.5 hours            |
+
+**Expected participant commitment: 6–9 hours per week, across 6 weeks.**
+
+Participants who cannot commit this consistently should consider starting later or taking a foundations-first route instead. The programme does not work well at a lower commitment level.
+
+---
+
+## What Falls Outside the Standard Programme
+
+The following are not included as standard. They are available, arranged and agreed separately:
+
+- **Additional unblocking sessions** beyond the two included
+- **Extended mentoring** once the six weeks have completed
+- **A second project** or significant expansion of scope beyond what was agreed at kickoff
+- **Repeat career sessions** — additional mock interviews, further CV or LinkedIn revisions beyond the included sessions
+- **Rebuilding work** where a participant has not completed agreed build tasks and requires the work to be redone with them
+- **Ad hoc consulting** on unrelated real-world or employer projects
+
+None of this is a hard stop. It simply sits outside the included allowance and is agreed on a case-by-case basis.
+
+---
+
+## Rescheduling and Extensions
+
+- Sessions can be rescheduled with reasonable notice where possible
+- Late cancellations or no-shows count against the included allowance
+- If life circumstances interrupt progress, the timeline can be paused or extended by agreement — this is discussed openly rather than allowed to drift
+- If checkpoints are consistently missed without communication, we pause and reassess together
+
+---
+
+## Scope Boundaries
+
+To protect the quality of support for everyone taking part:
+
+- **Mentors guide, review and unblock. Participants build.** Work is not completed on a participant's behalf — this is what makes the finished artefact defensible in an interview.
+- **Scope is agreed at kickoff.** Changing direction mid-programme is possible but affects the timeline and is discussed at the time.
+- **Places are limited** so that each participant receives proper individual attention.
+
+---
+
+## Costs
+
+The programme is a paid offering. Pricing is discussed individually at the intake call, so that it can be matched to scope, format and circumstances.
+
+Anything falling outside the standard programme as listed above is agreed and priced separately before it is undertaken — nothing is charged without discussion first.
+
+---
+
+## Intake Call
+
+A free 20-minute intake call is offered before anyone commits. It covers:
+
+- Your background and what you have already built
+- Your target role and timeline
+- Whether the prerequisites are met
+- What the programme journey involves in practice
+- Time commitment and cost
+
+If the programme is not the right fit yet, that will be said honestly, along with a recommended next step.=
 
 ---
 

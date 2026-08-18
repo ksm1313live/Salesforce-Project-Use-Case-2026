@@ -189,8 +189,7 @@ Delivered by experienced Salesforce practitioners, combining:
 
 Get in touch through any Kam's Tech Talk channel to arrange an intake call.
 
-- **Website:** https://ksm1313live.uk
-- **Contact:** https://ksm1313live.wordpress.com/contact/
+- **Contact:** Drop me a message via joining the WhatsApp community: ksm1313live — https://chat.whatsapp.com/JR6P0oYWArD1b3UmfgsvLY?s=cl&p=i&ilr=0
 - **LinkedIn:** https://www.linkedin.com/company/ksm1313live
 - **YouTube:** https://www.youtube.com/c/ksm1313live
 - **Instagram:** https://www.instagram.com/ksm1313live
